@@ -1,5 +1,5 @@
 # MoviesList.proj
-Movies App is an iOS built with MVVM(Model View ViewModel) Architecture using Swift.
+Movies App is an iOS app built with MVVM(Model View ViewModel) Architecture using Swift.
 
 ## Requirements
  - Xcode 12+
