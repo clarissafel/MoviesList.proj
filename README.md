@@ -15,7 +15,7 @@ A scrollable list of movies, ordered by descending release date, from [TMDb Disc
 
 Page that features details of selected movies from [TMDb Movie Details API](https://developers.themoviedb.org/3/movies/get-movie-details)
 
-## Design Considetations
+## Design Considerations
 
 ### MVVM Architecture
 MVVM architecture is used to maintain seperation of responsibilities to ensure maintainability and extensibility of code.
